@@ -45,6 +45,9 @@ How to request controlled access via Figshare, including required forms and appr
 ### ✔️ Data Use Agreement (DUA)  
 A downloadable DUA outlining permitted use, ethical obligations, and restrictions for researchers.
 
+### ✔️ Customised Code
+The implementation of the multi-modal fusion models used for DOLCHID validation.
+
 ### ✔️ Citation Information  
 Guidance on how to cite the dataset in academic work, including BibTeX and DOI link.
 

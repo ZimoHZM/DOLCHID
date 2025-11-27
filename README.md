@@ -72,7 +72,17 @@ To obtain access, applicants must:
 
 ---
 
+## 🧠 Feature Fusion Models
+
+To facilitate **multi-modal learning** on DOLCHID, this repository includes two reference PyTorch implementations that operate on pre-extracted CBCT and histopathology feature vectors:
+
+- `Feature Fusion Models/grid_feature_fusion.py`
+- `Feature Fusion Models/clip_feature_fusion.py`
+
+---
+
 ## 📄 Citation
 
-If you use the DOLCHID dataset in your work, please cite:
+If you use the DOLCHID dataset in your work, please consider citing:
+Zimo Huang, Xia Tian, Shengfu Huang, Lei Bi and Jinman Kim. Dental Odontogenic Lesion CBCT and Histopathology Integrated Dataset. figshare (2025). https://doi.org/10.6084/m9.figshare.30156622.
 

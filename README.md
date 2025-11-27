@@ -58,13 +58,9 @@ The dataset is deposited on Figshare under controlled access:
 
 To obtain access, applicants must:
 
-1. **Download and sign the Data Use Agreement (DUA)**  
-   from this repository or from the Figshare landing page.
+1. **Download and sign the [Data Use Agreement (DUA)](https://github.com/ZimoHZM/DOLCHID/blob/main/DOLCHID%20Access%20Agreement%20Draft.pdf)**
 
-2. **Provide basic information**, including:  
-   - Name  
-   - Academic or institutional affiliation  
-   - Intended research purpose  
+2. **Provide basic information**.
 
 3. **Submit the signed DUA** to the dataset custodians.
 
@@ -76,13 +72,20 @@ To obtain access, applicants must:
 
 To facilitate **multi-modal learning** on DOLCHID, this repository includes two reference PyTorch implementations that operate on pre-extracted CBCT and histopathology feature vectors:
 
-- `Feature Fusion Models/grid_feature_fusion.py`
-- `Feature Fusion Models/clip_feature_fusion.py`
+- [Feature Fusion Models/grid_feature_fusion.py](https://github.com/ZimoHZM/DOLCHID/blob/main/Feature%20Fusion%20Models/grid_feature_fusion.py)
+- [Feature Fusion Models/clip_feature_fusion.py](https://github.com/ZimoHZM/DOLCHID/blob/main/Feature%20Fusion%20Models/clip_feature_fusion.py)
 
 ---
 
 ## 📄 Citation
 
 If you use the DOLCHID dataset in your work, please consider citing:
-Zimo Huang, Xia Tian, Shengfu Huang, Lei Bi and Jinman Kim. Dental Odontogenic Lesion CBCT and Histopathology Integrated Dataset. figshare (2025). https://doi.org/10.6084/m9.figshare.30156622.
+
+DOLCHID:
+
+- 'Zimo Huang, Xia Tian, Shengfu Huang, Lei Bi and Jinman Kim. Dental Odontogenic Lesion CBCT and Histopathology Integrated Dataset. figshare. 2025. https://doi.org/10.6084/m9.figshare.30156622.'
+
+Paper:
+
+- 
 

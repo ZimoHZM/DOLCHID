@@ -2,12 +2,12 @@
 
 This repository provides the official documentation, metadata, and access instructions for the **DOLCHID** dataset — the first curated multi-modal dataset integrating **Cone-Beam Computed Tomography (CBCT)** imaging and corresponding **histopathology (H&E-stained)** slices for odontogenic lesion research.
 
-> ⚠️ **Note:**  
+> **Note:**  
 > Due to the inclusion of human clinical imaging and diagnostic data, the raw CBCT and histopathology images are **not stored in this repository**. Access is granted via figshare (see below).
 
 ---
 
-## 📘 Dataset Overview
+## Dataset Overview
 
 DOLCHID includes paired CBCT volumes and histopathological images collected from confirmed odontogenic lesion cases.  
 Four major lesion subtypes are included:
@@ -32,7 +32,7 @@ This dataset supports tasks such as:
 
 ---
 
-## 📁 What This Repository Contains
+## What This Repository Contains
 
 This repository serves as the **official documentation hub** for the DOLCHID dataset. It contains:
 
@@ -50,7 +50,7 @@ Guidance on how to cite the dataset in academic work, including BibTeX and DOI l
 
 ---
 
-## 🔐 Accessing the Dataset
+## Accessing the Dataset
 
 The dataset is deposited on Figshare:
 
@@ -58,7 +58,7 @@ The dataset is deposited on Figshare:
 
 ---
 
-## 🧠 Feature Fusion Models
+## Feature Fusion Models
 
 To facilitate **multi-modal learning** on DOLCHID, this repository includes two reference PyTorch implementations that operate on pre-extracted CBCT and histopathology feature vectors:
 
@@ -67,7 +67,7 @@ To facilitate **multi-modal learning** on DOLCHID, this repository includes two 
 
 ---
 
-## 📄 Citation
+## Citation
 
 If you use the DOLCHID dataset in your work, please consider citing:
 

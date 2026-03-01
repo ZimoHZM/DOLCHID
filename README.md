@@ -3,7 +3,7 @@
 This repository provides the official documentation, metadata, and access instructions for the **DOLCHID** dataset — the first curated multi-modal dataset integrating **Cone-Beam Computed Tomography (CBCT)** imaging and corresponding **histopathology (H&E-stained)** slices for odontogenic lesion research.
 
 > ⚠️ **Note:**  
-> Due to the inclusion of human clinical imaging and diagnostic data, the raw CBCT and histopathology images are **not stored in this repository**. Access is granted via a controlled-access mechanism hosted on figshare (see below).
+> Due to the inclusion of human clinical imaging and diagnostic data, the raw CBCT and histopathology images are **not stored in this repository**. Access is granted via figshare (see below).
 
 ---
 
@@ -40,10 +40,7 @@ This repository serves as the **official documentation hub** for the DOLCHID dat
 Detailed explanation of dataset composition, modalities, and class definitions.
 
 ### ✔️ Data Access Instructions  
-How to request controlled access via Figshare, including required forms and approval steps.
-
-### ✔️ Data Use Agreement (DUA)  
-A downloadable DUA outlining permitted use, ethical obligations, and restrictions for researchers.
+How to obtain access via Figshare.
 
 ### ✔️ Customised Code
 The implementation of the multi-modal fusion models used for DOLCHID validation.
@@ -55,19 +52,9 @@ Guidance on how to cite the dataset in academic work, including BibTeX and DOI l
 
 ## 🔐 Accessing the Dataset
 
-The dataset is deposited on Figshare under controlled access:
+The dataset is deposited on Figshare:
 
 **DOI:** https://doi.org/10.6084/m9.figshare.30156622
-
-To obtain access, applicants must:
-
-1. **Download and sign the [Data Use Agreement (DUA)](https://github.com/ZimoHZM/DOLCHID/blob/main/DOLCHID%20Access%20Agreement%20Draft.pdf)**
-
-2. **Provide basic information**.
-
-3. **Submit the signed DUA** to the dataset custodians.
-
-4. Upon approval, **secure download access** will be granted.
 
 ---
 
@@ -86,7 +73,7 @@ If you use the DOLCHID dataset in your work, please consider citing:
 
 DOLCHID:
 
-- 'Zimo Huang, Xia Tian, Shengfu Huang, Lei Bi and Jinman Kim. Dental Odontogenic Lesion CBCT and Histopathology Integrated Dataset. figshare. 2025. https://doi.org/10.6084/m9.figshare.30156622.'
+- 'Zimo Huang, Tian Xia, Tianfu Wu, Bing Liu, Shengfu Huang, Lei Bi and Jinman Kim. Dental Odontogenic Lesion CBCT and Histopathology Integrated Dataset. figshare. 2025. https://doi.org/10.6084/m9.figshare.30156622.'
 
 Paper:
 

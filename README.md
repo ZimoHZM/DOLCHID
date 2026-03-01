@@ -36,16 +36,16 @@ This dataset supports tasks such as:
 
 This repository serves as the **official documentation hub** for the DOLCHID dataset. It contains:
 
-### ✔️ Dataset Description  
+### Dataset Description  
 Detailed explanation of dataset composition, modalities, and class definitions.
 
-### ✔️ Data Access Instructions  
+### Data Access Instructions  
 How to obtain access via Figshare.
 
-### ✔️ Customised Code
+### Customised Code
 The implementation of the multi-modal fusion models used for DOLCHID validation.
 
-### ✔️ Citation Information  
+### Citation Information  
 Guidance on how to cite the dataset in academic work, including BibTeX and DOI link.
 
 ---

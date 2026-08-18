@@ -77,5 +77,5 @@ DOLCHID:
 
 Paper:
 
-- 
+- 'Zimo Huang, Tian Xia, Tianfu Wu, et al. Dental Odontogenic Lesion CBCT and Histopathology Integrated Dataset for Benchmarking Deep Learning Algorithms. Sci Data 13, 758 (2026). https://doi.org/10.1038/s41597-026-07112-7'
 
